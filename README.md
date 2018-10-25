@@ -1,6 +1,12 @@
 # Dynamic Eigenvector Centralities
+
+
+
 ## Paper / Purpose
-This code serves as an implementation of the work on calculating keywords and their emerging importance outlined here: https://people.cs.clemson.edu/~isafro/papers/dynamic-centralities.pdf
+This code serves as an implementation of the work on calculating keywords and their emerging importance outlined in:
+
+Neela Avudaiappan, Alexander Herzog, Sneha Kadam, Yuheng Du, Jason Thatcher, and Ilya Safro, "
+[Detecting and summarizing emergent events in microblogs and social media streams by dynamic centralities](http://alexherzog.net/files/IEEE_BigData_2017_Dynamic_Centralities.pdf)", in Proceedings of the 2017 IEEE International Conference on Big Data, 2017
 
 ## Results
 The results in the paper have been replicated on the Boston dataset using time intervals of 60 and 15 minutes, located in `boston_examples`.
